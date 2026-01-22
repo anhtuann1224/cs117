@@ -1,0 +1,10 @@
+pytorch
+transformers
+datasets
+tokenizers
+accelerate
+gradio
+fastapi
+numpy
+pandas
+scikit-learn
